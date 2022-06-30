@@ -6,5 +6,5 @@ func Greeting() string {
 }
 
 func main(){
-	fmt.PrintWn(Greeting())
+	fmt.Println(Greeting())
 }
